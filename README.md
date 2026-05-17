@@ -1,6 +1,6 @@
-<img width="1845" height="827" alt="image" src="https://github.com/user-attachments/assets/e2220d46-04ab-45fc-bef7-a5edbe493a6a" />
+<img width="1771" height="857" alt="image" src="https://github.com/user-attachments/assets/25d332b1-14ed-4a9b-8b0b-0908b18f4d1b" />
 
-# Slang-Aware Sentiment Engine: A Compound AI Architecture
+# Sentiment analysis system: A Compound AI Architecture
 
 A production-ready, high-performance **Compound AI System** designed to decode informal digital consumer text, internet vernacular, and localized slang. 
 
