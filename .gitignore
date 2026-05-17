@@ -1,0 +1,32 @@
+# Python & Environments 
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+.venv/
+env/
+venv/
+ENV/
+.env
+
+# MLflow (Experiment Tracking) 
+mlruns/
+mlflow.db
+outputs/
+
+# XAI & Visualization (SHAP/IPython) 
+.ipython/
+.matplotlib/
+
+# Large Model Weights 
+models/*
+!models/.gitkeep
+models/checkpoints/
+
+# Logs & Metadata 
+logs/
+.streamlit/
+
+# OS Specific Files 
+.DS_Store
+Thumbs.db
