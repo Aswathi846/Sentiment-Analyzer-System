@@ -1,3 +1,4 @@
+**APP DEPLOYEMENT LINK:** https://huggingface.co/spaces/Aswathi007/Sentiment_Analysis_Dashboard
 <img width="1771" height="857" alt="image" src="https://github.com/user-attachments/assets/25d332b1-14ed-4a9b-8b0b-0908b18f4d1b" />
 
 # Sentiment analysis system: A Compound AI Architecture
