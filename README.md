@@ -6,6 +6,8 @@ A production-ready, high-performance **Compound AI System** designed to decode i
 
 This architecture balances computational efficiency with deep contextual awareness by running a fine-tuned, localized Transformer model optimized via **ONNX Runtime** alongside a reasoning **Agentic Layer powered by Gemini 1.5 Flash**.
 
+**DEPLOYED APP LINK:** https://huggingface.co/spaces/Aswathi007/Sentiment_Analysis_Dashboard
+
 ---
 
 ## 🏗️ System Architecture
@@ -108,6 +110,3 @@ Test Result: [{'label': 'POSITIVE', 'score': 0.8498}]
 <img width="1148" height="342" alt="image" src="https://github.com/user-attachments/assets/b777b65f-a16c-4a40-9528-b1a6b8bcf090" />
 
 Advanced evaluation logs, precision, recall, and F1-curves are continuously tracked into the local mlruns database, visible instantly via your local MLflow server.
-
-**APP DEPLOYEMENT LINK:** https://huggingface.co/spaces/Aswathi007/Sentiment_Analysis_Dashboard
-
